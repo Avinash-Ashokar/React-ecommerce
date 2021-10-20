@@ -16,4 +16,4 @@
 
 This is the basic App.js code
 
-[Course Link](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn)
+[Course Link](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
